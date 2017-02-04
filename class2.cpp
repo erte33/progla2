@@ -111,6 +111,7 @@ int main (){
 	cout << "The Second Staff's Name is: " << staff[1].name << endl;
 	cout << "The Second Staff's ID Number is: " << staff[1].id_num << endl;
 	cout << "The Second Staff's SSS is:" << staff[1].SSS << endl;
+	cout << " " << endl;
 	cout << "The Third Staff's Name is: " << staff[2].name << endl;
 	cout << "The Third Staff's ID Number is: " << staff[2].id_num << endl;
 	cout << "The Third Staff's SSS is:" << staff[2].SSS << endl;
