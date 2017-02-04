@@ -38,7 +38,7 @@ int main (){
 	cout << "Enter the Number of Subjects the Student has: ";
 	cin >> stud1.num_of_subjects;
 	cout << "Enter the Number of Books the Student has: ";
-	cin >> stud1.num_of_subjects;
+	cin >> stud1.num_books;
 	cout << "Enter the Professor's Name:";
 	cin >> prof1.name;
 	cout << "Enter the Professor's ID Number: ";
